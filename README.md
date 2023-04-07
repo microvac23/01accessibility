@@ -15,3 +15,9 @@ When I view the image elements then I find accessible alt attributes
 When I view the heading attribute then they fall in sequential order
 
 When I view the title element then I find a concise, descriptive title
+
+## Source Code
+
+Original Code found here: https://github.com/coding-boot-camp/urban-octo-telegram
+
+![Website Screenshot](/assets/images/Screenshot%202023-04-06%20225350.png)
